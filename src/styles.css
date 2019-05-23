@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* item activo barra de navegacion */
+.active-navegacion{
+    /* background: #119ace; */
+    background: #a8b6c3;
+    border: 1px solid transparent;
+    border-radius: 10px;
+  }
+
+  /* Hoveer productos */
+.contenedor-img:hover .card-img-top  {-webkit-transform:scale(1.3);transform:scale(1.3);}
+.contenedor-img {overflow:hidden;}

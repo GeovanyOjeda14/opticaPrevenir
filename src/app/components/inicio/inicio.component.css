@@ -1,0 +1,16 @@
+.slider-inicio{
+    margin: auto;
+    max-width: 95%;
+}
+
+.imgs-slider {
+    height: 550px;
+}
+
+.btn-ver-producto{
+    position: absolute;
+}
+
+.jumbotron{
+    margin-bottom: 0px !important;
+}
